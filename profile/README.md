@@ -71,4 +71,4 @@ Because it’s elegant, fast, and made with authors in mind. It streamlines the 
 
 ## 🔍 Tags
 
-vellum, vellum pub, vellum book, vellum books, vellum mac download, vellum free for mac, vellum publishing software macos, vellum formatting tool, Vellum software, Vellum book formatting, Vellum for Mac, Vellum book creation tool, Vellum publishing software, Vellum for self-publishing, book formatting software for Mac, best software for ebook formatting, software for creating ebooks, professional book formatting tool
+vellum, vellum pub, vellum book, vellum download, vellum books, vellum mac download, vellum free for mac, vellum publishing software macos, vellum formatting tool, Vellum software, Vellum book formatting, Vellum for Mac, Vellum book creation tool, Vellum publishing software, Vellum for self-publishing, book formatting software for Mac, best software for ebook formatting, software for creating ebooks, professional book formatting tool
